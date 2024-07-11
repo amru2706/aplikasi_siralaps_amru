@@ -1,10 +1,11 @@
 # iguana_taman_wisata
 
-A new Flutter project.
+Project aplikasi mobile untuk keperluan Ujian Akhir Semester mata kuliah Mobile Computing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Login :
+username : eca    password : eca
+          atau
+bisa register terlebih dahulu.
 
 A few resources to get you started if this is your first Flutter project:
 
